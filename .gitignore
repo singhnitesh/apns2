@@ -4,3 +4,5 @@ node_modules
 *.log
 *.pem
 *.p8
+*.sublime-project
+*.sublime-workspace
