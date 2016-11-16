@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bluebird": "^3.4.1",
-    "http2": "ashimoon/node-http2#delete-closed-endpoints",
+    "http2": "singhnitesh/node-http2.git#idle-stream-fixes",
     "jsonwebtoken": "^7.0.1",
     "lodash": "^4.13.1"
   },
